@@ -2,7 +2,7 @@
 #FORMAT 1
 #REVISION 0.100
 #Players 1
-#TEST PACK, 0, 0, Alpha, Forsee Obstacles
+#TEST PACK, 1, 1, Risky (I), Forsee Obstacles
 48, 1, 1502, 160, 0
 50, 1, 1518, 160, 0
 51, 1, 1550, 160, 0

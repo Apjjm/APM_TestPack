@@ -2,7 +2,7 @@
 #FORMAT 1
 #REVISION 0.100
 #Players 1
-#TEST PACK, 0, 0, Alpha, Recurve
+#TEST PACK, 2, 0, Dangerous (I), Recurve
 94, 2, CLIMBER, 0
 283, 0, CLIMBER, 0
 682, 2, MINER, 0
