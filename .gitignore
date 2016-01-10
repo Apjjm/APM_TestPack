@@ -41,3 +41,9 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#Lemmings files
+*.exe
+*.arc
+*.sav
+NeoLemmixHotkeys.ini
