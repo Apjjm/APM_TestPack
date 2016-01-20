@@ -1,0 +1,7 @@
+To Fix:
+
+	>Wafer hits the roof with the builder now (Lower the steel)
+	>Just a step to the left is using the wrong tileset (using ohno bricks rather than jsut bricks...)
+		>Would require a complete remae, so will probably just ignore this level being broken for now?
+		
+	>Need to move 4 lemming fiesta into the difficult rating below.
