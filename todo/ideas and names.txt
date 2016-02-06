@@ -1,32 +1,17 @@
-Name: Yet they fall, the last few grains
-Idea: 1 Minute Time crunch. Pillar set. Multi-task a few lemmings. Hour-glass looking level?
 
-Name: Hadrian's wall
-Idea: Easy level where you use 3 builders to act as a blocker
+[Easy Ranking]
 
-Name: 
-Idea: Dig down on the far edge of an arrow wall (e.g. <<<X ) and use the miner to turn around, then another miner / basher to go back through the wall.
-This would be tied into using a few other skills, but this specific trick would be a part of getting the skill efficiency needed to solve the level.
+Name: Welcome to the digsite - Dirt
+Idea: Digger intro level, two entrances
 
-Name: 
-Idea: Have a few diggers go ahead (on a path above the level) to dig down some vertical beams and maybe one miner / bomber on a diagonal to allow us to build to the exit.
-
-Name: Stanchion Fabricators - Brick
-Idea: Builders from centre points build out to two white poles, then chop through the poles. Multi entrace affair.
-
---Early Intro Levels
-
-Name: Penrose Problems - Pillar
-Idea: Digger intro level with a penrose triangle.
-
-Name: Fossil Excavation Procedure - Dirt
-Idea: Basher & Miner intro level
-
-Name: StOp BeFoRe YoU PoP! - Bubble
-Idea: Blocker & Bomber intro level
+Name: Hook, Mine & Sinker 
+Idea: Miner intro level - Maybe on some kind of level that looks like a ship...
 
 Name: Caldera Crossing - Hell
-Idea: Builder intro level
+Idea: Builder intro level - two entrances from each side, need to make them meet in the middle?
+
+Name: StOp BeFoRe YoU PoP! - Bubble
+Idea: Blocker & Bomber intro level. Callback to onml.
 
 Name: Three Mountaineers - Rock
 Idea: Climber & Floater intro level
@@ -36,23 +21,30 @@ Idea: 10 of everything level, with multiple valid solutions.
 
 [Oddtable: Whadaya call a lemming in cement? - Brick]
 
-[Done: Large Polyhedron Collider - Pillar]
+Name: Pressed for Time - Dirt
+Idea: Crusher traps. 1 Minute level. 10 of everything.
 
-Name: Pressed for Time - Marble
-Idea: Level with crusher traps. 1 Minute level. 10 of everything.
+[Medium Ranking]
+Name: 
+Idea: Dig down a wall to let lemmings from a few different entrance routes climb up.
 
-Name: Big Trouble On Bikini Island - Rock
-Idea: Nuke solution level. Only have blockers to solve the level, need to nuke a little hole.
+Name: Christmas Capers - Xmas
+Idea:
 
-Name: Hard Hats Recommended - Dirt
-Idea: Introduce Rock & vine traps on a dirt level.
+Name: Splatform Nine and three quaters
+Idea: Lots of entrances which you have to save from splatting using builders.
 
-...
+Name: Stanchion Fabricators - Brick
+Idea: Builders from centre points build out to two white poles, then chop through the poles. Multi entrace affair.
 
-[Done: Resonant Frequency - Marble ]
+[Hard Ranking]
+Name: Friends in high places
+Idea: Have a few diggers go ahead (on a path above the level) to dig down some vertical beams and maybe one miner / bomber on a diagonal to allow us to build to the exit.
+
+[Very Hard Ranking]
 
 
-Other Names & Ideas:
->Mechanist's Inclination
->Eleventh Hour
->
+[Other Names / Themes / Ideas]
+>Mechanist's Inclination (cog set)
+>Eleventh Hour (1 of everything. 1:11 on the clock)
+>Hard Hats Recommended
