@@ -37,6 +37,9 @@ Idea: Lots of entrances which you have to save from splatting using builders.
 Name: Stanchion Fabricators - Brick
 Idea: Builders from centre points build out to two white poles, then chop through the poles. Multi entrace affair.
 
+Name: 
+Idea: Re-use penrose punch-out level for a fairly easy medium ranking puzzle?
+
 [Hard Ranking]
 Name: Friends in high places
 Idea: Have a few diggers go ahead (on a path above the level) to dig down some vertical beams and maybe one miner / bomber on a diagonal to allow us to build to the exit.
