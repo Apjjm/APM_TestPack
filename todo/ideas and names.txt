@@ -7,9 +7,6 @@ Idea: Digger intro level, two entrances
 Name: Hook, Mine & Sinker 
 Idea: Miner intro level - Maybe on some kind of level that looks like a ship...
 
-Name: Caldera Crossing - Hell
-Idea: Builder intro level - two entrances from each side, need to make them meet in the middle?
-
 Name: StOp BeFoRe YoU PoP! - Bubble
 Idea: Blocker & Bomber intro level. Callback to onml.
 
